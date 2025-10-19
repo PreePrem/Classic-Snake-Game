@@ -1,0 +1,5 @@
+{
+  "name": "Classic Snake Web",
+  "description": "A fully functional web-based classic snake game. Features single-player mode, grid-based movement, retro pixel visuals, score tracking, increasing speed, game over detection, and restart functionality. The UI is responsive for both desktop and mobile, with keyboard and touch input support.",
+  "requestFramePermissions": []
+}
